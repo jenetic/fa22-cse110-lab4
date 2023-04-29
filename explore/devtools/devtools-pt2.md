@@ -1,0 +1,2 @@
+1. The inputs were strings, so the function concatenated the two inputs together rather than add the numbers.
+2. I would first convert the inputs into a number type using `Number()` before adding them.
